@@ -49,7 +49,28 @@ I work across **Java, Python, JavaScript, React, Node.js and FastAPI**, with exp
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
 ---
+
+## 🌱 Currently Learning
+
+- 🤖 AI-powered software engineering
+- 🧠 Advanced Python & Machine Learning
+- ⚛️ Advanced React & Full-Stack Development
+- 🏗️ Software Architecture & System Design
+- ☁️ Building and deploying production-ready applications
+
+---
+
+## 💡 What I Enjoy Building
+
+I enjoy turning ideas into practical software — from full-stack web applications
+and management platforms to AI-powered tools and data-driven systems.
+
+I especially enjoy working on projects where **software, data and intelligent
+automation** come together.
+---
+
 
 ## 🚀 What I'm Building
 
