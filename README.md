@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Building+%E2%80%94+Learning+%E2%80%94+Creating" alt="Typing SVG" />
+</p>
 # 👋 Hi, I'm Abdul Ahad
 
 ### 💻 Computer Engineering Student | Full-Stack Developer | AI/ML Enthusiast
@@ -45,3 +48,13 @@ I work across **Java, Python, JavaScript, React, Node.js and FastAPI**, with exp
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 What I'm Building
+
+🔹 **Arqon** — AI-focused software engineering project  
+🔹 **Exertia** — Employee performance & task management platform  
+🔹 **Cravio** — Smart restaurant & analytics management system  
+🔹 **Aab-e-Hayat** — Full-stack perfume & attar platform  
+🔹 **Bingelist** — Social platform built around movies & TV shows
