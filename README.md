@@ -62,23 +62,6 @@ I work across **Java, Python, JavaScript, React, Node.js and FastAPI**, with exp
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulAhad1189&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAhad1189&layout=compact&theme=transparent&hide_border=true" height="170" />
-</p>
-
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbdulAhad1189&theme=transparent&hide_border=true" />
-</p>
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
