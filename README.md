@@ -58,3 +58,35 @@ I work across **Java, Python, JavaScript, React, Node.js and FastAPI**, with exp
 🔹 **Cravio** — Smart restaurant & analytics management system  
 🔹 **Aab-e-Hayat** — Full-stack perfume & attar platform  
 🔹 **Bingelist** — Social platform built around movies & TV shows
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulAhad1189&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAhad1189&layout=compact&hide_border=true" height="170" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbdulAhad1189&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/AbdulAhad1189">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdulahadsaiyed/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building things, learning continuously, and turning ideas into software.</i>
+</p>
